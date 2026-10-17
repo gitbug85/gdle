@@ -5,3 +5,4 @@ It is meant for running locally.
 
 # Installation
 
+No current installation instructions
